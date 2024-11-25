@@ -1,0 +1,10 @@
+C:\Users\2022\source\repos\chess_2\chess_2\bin\Debug\chess_2.exe.config
+C:\Users\2022\source\repos\chess_2\chess_2\bin\Debug\chess_2.exe
+C:\Users\2022\source\repos\chess_2\chess_2\bin\Debug\chess_2.pdb
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.csproj.AssemblyReference.cache
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.Properties.Resources.resources
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.csproj.GenerateResource.cache
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.csproj.CoreCompileInputs.cache
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.exe
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.pdb
+C:\Users\2022\source\repos\chess_2\chess_2\obj\Debug\chess_2.Form1.resources
